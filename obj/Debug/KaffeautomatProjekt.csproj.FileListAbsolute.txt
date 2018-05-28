@@ -1,0 +1,10 @@
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\bin\Debug\KaffeautomatProjekt.exe.config
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\bin\Debug\KaffeautomatProjekt.exe
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\bin\Debug\KaffeautomatProjekt.pdb
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\obj\Debug\KaffeautomatProjekt.csprojResolveAssemblyReference.cache
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\obj\Debug\KaffeautomatProjekt.Form1.resources
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\obj\Debug\KaffeautomatProjekt.Form2.resources
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\obj\Debug\KaffeautomatProjekt.Properties.Resources.resources
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\obj\Debug\KaffeautomatProjekt.csproj.GenerateResource.Cache
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\obj\Debug\KaffeautomatProjekt.exe
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\KaffeautomatProjekt\KaffeautomatProjekt\obj\Debug\KaffeautomatProjekt.pdb
